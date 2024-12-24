@@ -27,7 +27,7 @@ You can use 'JSON server' which will allow you to create tests against the endpo
 #### a. **Run Test**:
 - Copy the project to your local:
 
-        git clone 
+        git clone https://github.com/wisdomamopho/playwright-api-testing.git
 
 - Install dependencies:
 
