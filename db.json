@@ -1,0 +1,199 @@
+{
+  "rooms": [
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "-2",
+      "price": -1,
+      "type": ""
+    },
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "23",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "-2",
+      "price": -1,
+      "type": ""
+    },
+    {
+      "id": "5",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "-2",
+      "price": -1,
+      "type": ""
+    },
+    {
+      "id": "89",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "98",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": "-2",
+      "price": -1,
+      "type": ""
+    },
+    {
+      "id": "46",
+      "type": "Single",
+      "price": 280
+    },
+    {
+      "id": -2,
+      "price": -1,
+      "type": ""
+    },
+    {
+      "id": 59,
+      "type": "Single",
+      "price": 280
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "roomId": 1,
+      "clientName": "John Doe"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": "2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": "2022-01-05",
+      "endDate": "2022-01-06"
+    },
+    {
+      "id": "2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": "2022-01-05",
+      "endDate": "2022-01-06"
+    },
+    {
+      "id": "2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": "2022-01-05",
+      "endDate": "2022-01-06"
+    },
+    {
+      "id": "-2",
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    },
+    {
+      "id": 2,
+      "roomId": 1,
+      "userId": 1,
+      "startDate": "2022-01-05",
+      "endDate": "2022-01-06"
+    },
+    {
+      "id": -2,
+      "roomId": 1,
+      "userId": 1,
+      "startDate": " invalid date",
+      "endDate": " invalid date"
+    }
+  ]
+}
